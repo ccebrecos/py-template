@@ -6,4 +6,6 @@ Basic Python 3 Template that includes cli argument parser and logger in order to
 python src [-h]
 ```
 > Rename the src folder with the application name
+
+
 <> with ♥ by @ccebrecos
