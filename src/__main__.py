@@ -9,10 +9,11 @@ import os
 import sys
 import platform
 import logging
-import core.log
 
-from cli.arguments.parser import DEFAULT_PARSER
-from cli.arguments.constants import *
+# Relative imports
+import src.core.log
+from .cli.arguments.parser import DEFAULT_PARSER
+from .cli.arguments.constants import *
 
 
 # Constants
